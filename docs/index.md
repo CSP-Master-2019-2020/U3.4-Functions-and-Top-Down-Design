@@ -4,9 +4,9 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="assets/images/screen-capture.png">
+<!-- img class="overview-image" src="" -->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+In this lesson we'll start our adventure in programming - we'll be using the JavaScript language which is widely used in web development (almost every interactive web feature is written in JavaScript).
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
